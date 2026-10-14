@@ -1,0 +1,16 @@
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Participant data and generated datasets
+data/raw/
+data/processed/
+
+# Mac files
+.DS_Store
+
+# Environment secrets
+.env
+.env.*
